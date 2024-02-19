@@ -57,6 +57,12 @@ The Application allows to collect The Fees from Students, and allow to display a
     <b><a href="#">↥ back to top</a></b>
 </div>
 
+### Dashboard Page:
+![image](https://github.com/ashish32A/College-Management-System/blob/master/College-img/Dashboard.png)
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 ### Manage Students Page:
 ![image](https://github.com/ashish32A/College-Management-System/blob/master/College-img/student.png)
 <div align="right">
@@ -88,11 +94,7 @@ The Application allows to collect The Fees from Students, and allow to display a
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-### Dashboard Page:
-![image](https://github.com/ashish32A/College-Management-System/blob/master/College-img/Dashboard.png)
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+
 
 
 

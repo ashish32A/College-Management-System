@@ -23,7 +23,7 @@
 	</center>
 
 ## About Project:
-In this Project Project you will create a c# complete application of college management. The Application starts with a nice looking splash form which leads to a login form. The login form will be connected to a database, if the user id and password match the database entries, the user will login to the main form.
+In this Project Project create a c# complete application of college management. The Application starts with a nice looking splash form which leads to a login form. The login form will be connected to a database, if the user id and password match the database entries, the user will login to the main form.
 From the main form, the user can go to the Students form. He can add, edit, delete and view Students List.
 The User can manage the different Students, he can add, edit or update the Students.
 The User can manage the different Departments and Teachers by Adding, Editing and Deleting them.
